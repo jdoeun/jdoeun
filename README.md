@@ -1,7 +1,7 @@
 <h2>💡 About Me!  </h2>
 
-> ⛵ 지속 가능한 서비스의 발전을 고민하는 백엔드 개발자 정도은입니다!  
-> <br>  
+> ⛵ 지속 가능한 서비스의 발전을 고민하는 백엔드 개발자 정도은입니다
+> 
 > ✉️ Contact: jde429@khu.ac.kr
 
 <br><br>
@@ -23,7 +23,7 @@
 
 <br><br>
 
-<h2>💻 Projects</h3>
+<h2>💻 Projects</h2>
 
 | 기간              | 프로젝트명            | 내용          |
 | ----------------- | --------------------- | ------------- |
@@ -61,7 +61,7 @@
 
 <br><br>
 
-<h2> 🖌️ Tools </h2> 
+<h3> 🖌️ Tools </h3> 
 <div>
 <img src="https://img.shields.io/badge/IntelliJ IDEA-2C2255?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white" />
 <img src="https://img.shields.io/badge/PyCharm-1a1a1a.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
