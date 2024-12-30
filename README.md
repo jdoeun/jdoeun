@@ -1,6 +1,6 @@
 <h2>💡 About Me!  </h2>
 
-> 💙 지속 가능한 서비스의 발전을 고민하는 백엔드 개발자 정도은입니다!  
+> ⛵ 지속 가능한 서비스의 발전을 고민하는 백엔드 개발자 정도은입니다!  
 > <br>  
 > ✉️ Contact: jde429@khu.ac.kr
 
@@ -43,7 +43,7 @@
 
 <br><br>
 
-<h2>👨‍💻 Tech Skills!  </h2>
+<h2>👨‍💻 Tech Skills  </h2>
 <h3>⚒ Backend & DevOps</h3>
 <div>
 <img src ="https://img.shields.io/badge/Python-blue.svg?&style=for-the-badge&logo=Python&logoColor=white"/> 
