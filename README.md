@@ -78,11 +78,11 @@
 
 <br><br>
 
-<h2>👩🏻‍💻 I'm currently working on</h2>
+<!-- <h2>👩🏻‍💻 I'm currently working on</h2>
 
 ![jdoeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdoeun&theme=dracula)
 
-<br><br>
+<br><br> -->
 
 <h2>⭐️ My Top Languages</h2>
 
