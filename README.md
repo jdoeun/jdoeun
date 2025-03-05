@@ -30,7 +30,7 @@
 | ----------------- | --------------------- | ------------- |
 | 2023.7 ~ 2024.1 | Homey          | "1인 가구 여성이 안심하고 살 수 있는 집을 함께 찾아주는 길잡이", Team Leader <br> - 2023 경희대학교 SW 창업 아이디어 경진대회 「KHreative Start UP Dream 2.0」 최우수상 <br> - 고용노동부 미래내일 일경험 사업 프로젝트형(청년 주도) 기획 과정, 실행 과정 수료 , 최우수 팀 선정 <br> - 2023 경기도 GenAI, 공공데이터 창업경진대회 본선 진출|
 | 2024.6 ~ 2024.12        | 하나업 (1% UP)          | "여행 후 환전하기 애매한 소액이 남았을 때, 하나업 (1% UP)", Backend Lead Developer, <a href="https://github.com/jdoeun/hanaUp_backend">Github</a>|
-| 2025.1 ~ 2025.3        | 붕마카세          | "나만의 붕어빵 아카이브, 붕마카세세", Backend Lead Developer, <a href="https://github.com/jdoeun/bungmakase_backend">Github</a>|
+| 2025.1 ~ 2025.3        | 붕마카세          | "나만의 붕어빵 아카이브, 붕마카세", Backend Lead Developer, <a href="https://github.com/jdoeun/bungmakase_backend">Github</a>|
 
 <br><br>
 
