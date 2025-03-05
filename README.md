@@ -21,6 +21,7 @@
 | 스프링 기반 핀테크 서비스 과정        | 2024.7 ~ 2024.8 | [KG ITBANK] 핀테크 서비스 개발을 위한 소프트웨어 집중교육 수료 |
 | 모바일앱개발협동조합        | 2024.11 ~ 2024.12 | Intern, Backend Developer <br> **오픈마켓 크롤링 데이터 AI 분석 프로젝트 Python 백엔드 개발** <br> - 자체 관리 쇼핑 카테고리 기반 오픈마켓별 크롤링 데이터 최신화 관리, DB 재정규화 <br> - Google Gemini API를 활용한 크롤링 데이터 가공 스크립트 작성, 유지보수 <br> - AI 오픈마켓 분석 데이터 응답 API 제작 및 최적화|
 | SWYP 웹 8기        | 2025.1 ~ 2025.3 | 웹 개발 사이드 프로젝트 (PM 1, Design 1, FE 2, BE 2), Backend Lead Developer  |
+| AWS Cloud Clubs       | 2025.3 ~ ing | AWS 공식 대학생 커뮤니티 경희대 지부 3기|
 
 <br><br>
 
