@@ -69,7 +69,7 @@
 
 <br><br>
 
-<h2> 🖌️ Tools </h2> 
+<h3> 🖌️ Tools </h3> 
 <div>
 <img src="https://img.shields.io/badge/IntelliJ IDEA-2C2255?style=for-the-badge&logo=IntelliJ&logoColor=white" />
 <img src="https://img.shields.io/badge/PyCharm-1a1a1a.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
