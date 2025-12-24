@@ -91,7 +91,7 @@
 
 <h2>👩🏻‍💻 I'm currently working on</h2>
 
-![jdoeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdoeun&theme=dracula)
+![jdoeun's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jdoeun&theme=dracula)
 
 <br><br>
 
